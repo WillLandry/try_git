@@ -1,4 +1,4 @@
 try_git
 =======
 
-My first petty attempts to learn some of GitHub
+My first petty attempts to learn some of GitHub through Codeschool.
